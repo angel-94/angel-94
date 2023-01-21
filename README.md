@@ -11,7 +11,8 @@ BIO
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angel-94)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=angel-94&theme=tokyonight_duo&hide_border=true&border_radius=5.3)](https://git.io/streak-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-94)](https://github.com/anuraghazra/github-readme-stats)
 
