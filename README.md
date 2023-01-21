@@ -7,7 +7,7 @@ BIO
 - 🏢 I'm currently working at a consulting company
 - ⚙️ I use daily: .java
 - 🌱 Learning all about Open Source
-- 💬 Ping me about java, Kotlin, Groovy, SpokeTest, Python
+- 💬 Ping me about java, Kotlin, Groovy, Spock Framework, Python
 
 
 
